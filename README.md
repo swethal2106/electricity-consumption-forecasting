@@ -50,7 +50,8 @@ Evaluate predictions using error metrics.
 
 ![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/034ed0af-ffb5-4953-a2dc-2c427bf97b9b)
 
-![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/7e523bf4-8022-4e3b-9![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/fc82f659-1009-455b-8bc3-8329dbd26d0d)
+![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/7e523bf4-8022-4e3b-9!
+[WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/fc82f659-1009-455b-8bc3-8329dbd26d0d)
 31b-f95aea2c734d)
 ![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/9b262af6-67ed-4bf6-948b-6e00cb1e7962)
 
