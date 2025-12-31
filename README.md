@@ -48,3 +48,14 @@ Evaluate predictions using error metrics.
 
 
 
+![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/034ed0af-ffb5-4953-a2dc-2c427bf97b9b)
+
+![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/7e523bf4-8022-4e3b-9![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/fc82f659-1009-455b-8bc3-8329dbd26d0d)
+31b-f95aea2c734d)
+![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/9b262af6-67ed-4bf6-948b-6e00cb1e7962)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/42aa3b65-9de7-4599-bd04-d54df8ed4267)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/ce35a75c-![WhatsApp Image 2025-12-31 at 9 32 41 AM](https://github.com/user-attachments/assets/afab4545-3989-4263-8f00-33aea4bfd8ca)
+8823-442d-9a65-2b0abd044b8d![WhatsApp Image 2025-12-31 at 9 32 41 AM](https://github.com/user-attachments/assets/d7a7efbb-60c7-47e3-9634-31623216344a)
+)
