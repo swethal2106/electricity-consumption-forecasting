@@ -45,18 +45,21 @@ Evaluate predictions using error metrics.
 8. Day 1 Conclusion 
 “On Day 1, the problem of electric power consumption forecasting was studied in detail. The project objectives, scope, dataset overview, tools, and forecasting methodology were finalized for further implementation.”
 
+![WhatsApp Image 2025-12-31 at 9 31 28 AM 1](https://github.com/user-attachments/assets/0ff001ae-ad16-4ccf-ab94-aee84831e6e0)
+
+![WhatsApp Image 2025-12-31 at 9 31 43 AM 2](https://github.com/user-attachments/assets/81de265b-cde3-4846-b4c1-807115433f88)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM 3](https://github.com/user-attachments/assets/00bc00d8-14d2-4d32-955e-f22418758149)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM 4](https://github.com/user-attachments/assets/caa28f42-88c1-4367-b962-16eab84083e5)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM 5](https://github.com/user-attachments/assets/acae7188-8c25-4cc6-91cb-ce6491f4ef69)
+
+![WhatsApp Image 2025-12-31 at 9 32 40 AM 6](https://github.com/user-attachments/assets/9e520f86-e02e-43b4-bb3d-250772dcf69a)
+
+![WhatsApp Image 2025-12-31 at 9 32 41 AM 7](https://github.com/user-attachments/assets/d2b3ff34-299c-4133-ac75-f37de773592b)
+
+![WhatsApp Image 2025-12-31 at 9 32 41 AM 8](https://github.com/user-attachments/assets/f7d328d5-6b7d-4889-bce0-24ef1fac0a99)
 
 
 
-![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/034ed0af-ffb5-4953-a2dc-2c427bf97b9b)
-
-![WhatsApp Image 2025-12-31 at 9 31 28 AM](https://github.com/user-attachments/assets/7e523bf4-8022-4e3b-9!
-[WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/fc82f659-1009-455b-8bc3-8329dbd26d0d)
-31b-f95aea2c734d)
-![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/9b262af6-67ed-4bf6-948b-6e00cb1e7962)
-
-![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/42aa3b65-9de7-4599-bd04-d54df8ed4267)
-
-![WhatsApp Image 2025-12-31 at 9 32 40 AM](https://github.com/user-attachments/assets/ce35a75c-![WhatsApp Image 2025-12-31 at 9 32 41 AM](https://github.com/user-attachments/assets/afab4545-3989-4263-8f00-33aea4bfd8ca)
-8823-442d-9a65-2b0abd044b8d![WhatsApp Image 2025-12-31 at 9 32 41 AM](https://github.com/user-attachments/assets/d7a7efbb-60c7-47e3-9634-31623216344a)
-)
